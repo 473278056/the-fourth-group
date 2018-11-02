@@ -9,11 +9,11 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/SMS" />
-            <option value="$PROJECT_DIR$/aop" />
-            <option value="$PROJECT_DIR$/base-pojo" />
-            <option value="$PROJECT_DIR$/spring-consumer" />
-            <option value="$PROJECT_DIR$/spring-eureka" />
+            <option value="$PROJECT_DIR$/sms-consumer" />
+            <option value="$PROJECT_DIR$/sms-eureka" />
+            <option value="$PROJECT_DIR$/sms-pojo" />
+            <option value="$PROJECT_DIR$/sms-provider" />
+            <option value="$PROJECT_DIR$/sms-start" />
           </set>
         </option>
       </GradleProjectSettings>

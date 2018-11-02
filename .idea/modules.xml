@@ -2,21 +2,21 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SMS/SMS.iml" filepath="$PROJECT_DIR$/.idea/modules/SMS/SMS.iml" group="SMS" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SMS/SMS_main.iml" filepath="$PROJECT_DIR$/.idea/modules/SMS/SMS_main.iml" group="SMS" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SMS/SMS_test.iml" filepath="$PROJECT_DIR$/.idea/modules/SMS/SMS_test.iml" group="SMS" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/aop/aop.iml" filepath="$PROJECT_DIR$/.idea/modules/aop/aop.iml" group="aop" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/aop/aop_main.iml" filepath="$PROJECT_DIR$/.idea/modules/aop/aop_main.iml" group="aop" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/aop/aop_test.iml" filepath="$PROJECT_DIR$/.idea/modules/aop/aop_test.iml" group="aop" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/base-pojo.iml" filepath="$PROJECT_DIR$/.idea/modules/base-pojo.iml" group="base-pojo" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/base-pojo/base-pojo_main.iml" filepath="$PROJECT_DIR$/.idea/modules/base-pojo/base-pojo_main.iml" group="base-pojo" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/base-pojo/base-pojo_test.iml" filepath="$PROJECT_DIR$/.idea/modules/base-pojo/base-pojo_test.iml" group="base-pojo" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-consumer.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-consumer.iml" group="spring-consumer" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-consumer/spring-consumer_main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-consumer/spring-consumer_main.iml" group="spring-consumer" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-consumer/spring-consumer_test.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-consumer/spring-consumer_test.iml" group="spring-consumer" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-eureka/spring-eureka.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-eureka/spring-eureka.iml" group="spring-eureka" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-eureka/spring-eureka_main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-eureka/spring-eureka_main.iml" group="spring-eureka" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-eureka/spring-eureka_test.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-eureka/spring-eureka_test.iml" group="spring-eureka" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sms-consumer/sms-consumer.iml" filepath="$PROJECT_DIR$/.idea/modules/sms-consumer/sms-consumer.iml" group="sms-consumer" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sms-consumer/sms-consumer_main.iml" filepath="$PROJECT_DIR$/.idea/modules/sms-consumer/sms-consumer_main.iml" group="sms-consumer" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sms-consumer/sms-consumer_test.iml" filepath="$PROJECT_DIR$/.idea/modules/sms-consumer/sms-consumer_test.iml" group="sms-consumer" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sms-eureka/sms-eureka.iml" filepath="$PROJECT_DIR$/.idea/modules/sms-eureka/sms-eureka.iml" group="sms-eureka" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sms-eureka/sms-eureka_main.iml" filepath="$PROJECT_DIR$/.idea/modules/sms-eureka/sms-eureka_main.iml" group="sms-eureka" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sms-eureka/sms-eureka_test.iml" filepath="$PROJECT_DIR$/.idea/modules/sms-eureka/sms-eureka_test.iml" group="sms-eureka" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sms-pojo/sms-pojo.iml" filepath="$PROJECT_DIR$/.idea/modules/sms-pojo/sms-pojo.iml" group="sms-pojo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sms-pojo/sms-pojo_main.iml" filepath="$PROJECT_DIR$/.idea/modules/sms-pojo/sms-pojo_main.iml" group="sms-pojo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sms-pojo/sms-pojo_test.iml" filepath="$PROJECT_DIR$/.idea/modules/sms-pojo/sms-pojo_test.iml" group="sms-pojo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sms-provider/sms-provider.iml" filepath="$PROJECT_DIR$/.idea/modules/sms-provider/sms-provider.iml" group="sms-provider" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sms-provider/sms-provider_main.iml" filepath="$PROJECT_DIR$/.idea/modules/sms-provider/sms-provider_main.iml" group="sms-provider" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sms-provider/sms-provider_test.iml" filepath="$PROJECT_DIR$/.idea/modules/sms-provider/sms-provider_test.iml" group="sms-provider" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sms-start/sms-start.iml" filepath="$PROJECT_DIR$/.idea/modules/sms-start/sms-start.iml" group="sms-start" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sms-start/sms-start_main.iml" filepath="$PROJECT_DIR$/.idea/modules/sms-start/sms-start_main.iml" group="sms-start" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sms-start/sms-start_test.iml" filepath="$PROJECT_DIR$/.idea/modules/sms-start/sms-start_test.iml" group="sms-start" />
       <module fileurl="file://$PROJECT_DIR$/the-fourth-group.iml" filepath="$PROJECT_DIR$/the-fourth-group.iml" />
     </modules>
   </component>
