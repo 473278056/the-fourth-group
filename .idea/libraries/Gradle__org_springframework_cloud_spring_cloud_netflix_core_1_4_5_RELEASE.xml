@@ -2,12 +2,15 @@
   <library name="Gradle: org.springframework.cloud:spring-cloud-netflix-core:1.4.5.RELEASE">
     <CLASSES>
       <root url="jar://D:/javaUtil/gradleRepository/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-netflix-core/1.4.5.RELEASE/152f92c37ac1c450afc77f42f683e8e13e93f58d/spring-cloud-netflix-core-1.4.5.RELEASE.jar!/" />
+      <root url="jar://E:/gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-netflix-core/1.4.5.RELEASE/152f92c37ac1c450afc77f42f683e8e13e93f58d/spring-cloud-netflix-core-1.4.5.RELEASE.jar!/" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://D:/javaUtil/gradleRepository/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-netflix-core/1.4.5.RELEASE/c022fb935cfb9def68848242bde5d9cc99433de7/spring-cloud-netflix-core-1.4.5.RELEASE-javadoc.jar!/" />
+      <root url="jar://E:/gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-netflix-core/1.4.5.RELEASE/c022fb935cfb9def68848242bde5d9cc99433de7/spring-cloud-netflix-core-1.4.5.RELEASE-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES>
       <root url="jar://D:/javaUtil/gradleRepository/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-netflix-core/1.4.5.RELEASE/70c4380b109aa6460058211a811b9df17036454d/spring-cloud-netflix-core-1.4.5.RELEASE-sources.jar!/" />
+      <root url="jar://E:/gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-netflix-core/1.4.5.RELEASE/70c4380b109aa6460058211a811b9df17036454d/spring-cloud-netflix-core-1.4.5.RELEASE-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

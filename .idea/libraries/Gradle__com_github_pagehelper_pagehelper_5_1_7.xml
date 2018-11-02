@@ -2,12 +2,15 @@
   <library name="Gradle: com.github.pagehelper:pagehelper:5.1.7">
     <CLASSES>
       <root url="jar://D:/javaUtil/gradleRepository/.gradle/caches/modules-2/files-2.1/com.github.pagehelper/pagehelper/5.1.7/c6e08a33faa3099613655e73a8f8d68b8ada678a/pagehelper-5.1.7.jar!/" />
+      <root url="jar://E:/gradle/caches/modules-2/files-2.1/com.github.pagehelper/pagehelper/5.1.7/c6e08a33faa3099613655e73a8f8d68b8ada678a/pagehelper-5.1.7.jar!/" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://D:/javaUtil/gradleRepository/.gradle/caches/modules-2/files-2.1/com.github.pagehelper/pagehelper/5.1.7/81374ecb939bf5edfa39745fe0bfb7a9865f46b3/pagehelper-5.1.7-javadoc.jar!/" />
+      <root url="jar://E:/gradle/caches/modules-2/files-2.1/com.github.pagehelper/pagehelper/5.1.7/81374ecb939bf5edfa39745fe0bfb7a9865f46b3/pagehelper-5.1.7-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES>
       <root url="jar://D:/javaUtil/gradleRepository/.gradle/caches/modules-2/files-2.1/com.github.pagehelper/pagehelper/5.1.7/655e558e8d24676d7f6b6650d2cafa641978640c/pagehelper-5.1.7-sources.jar!/" />
+      <root url="jar://E:/gradle/caches/modules-2/files-2.1/com.github.pagehelper/pagehelper/5.1.7/655e558e8d24676d7f6b6650d2cafa641978640c/pagehelper-5.1.7-sources.jar!/" />
     </SOURCES>
   </library>
 </component>
