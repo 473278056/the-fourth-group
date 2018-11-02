@@ -5,6 +5,8 @@
       <profile default="true" name="Default" enabled="true" />
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="aop_main" target="1.8" />
+      <module name="aop_test" target="1.8" />
       <module name="base-pojo_main" target="1.8" />
       <module name="base-pojo_test" target="1.8" />
       <module name="SMS_main" target="1.8" />
