@@ -4,7 +4,7 @@ import org.springframework.context.annotation.Bean;
 
 public class FallbackConfiguration {
     @Bean
-    public TextClient fallbackFactory() {
-        return new TextClient();
+    public FallbackClient fallbackFactory() {
+        return new FallbackClient();
     }
 }

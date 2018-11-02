@@ -2,12 +2,15 @@
   <library name="Gradle: com.github.jsqlparser:jsqlparser:1.2">
     <CLASSES>
       <root url="jar://D:/javaUtil/gradleRepository/.gradle/caches/modules-2/files-2.1/com.github.jsqlparser/jsqlparser/1.2/bc8a4e852bde9114b97fda9a3f73c8ae2b7748b9/jsqlparser-1.2.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.jsqlparser/jsqlparser/1.2/bc8a4e852bde9114b97fda9a3f73c8ae2b7748b9/jsqlparser-1.2.jar!/" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://D:/javaUtil/gradleRepository/.gradle/caches/modules-2/files-2.1/com.github.jsqlparser/jsqlparser/1.2/3b2b1eaf749e57c612b6878f10f141c45ebcac12/jsqlparser-1.2-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.jsqlparser/jsqlparser/1.2/3b2b1eaf749e57c612b6878f10f141c45ebcac12/jsqlparser-1.2-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES>
       <root url="jar://D:/javaUtil/gradleRepository/.gradle/caches/modules-2/files-2.1/com.github.jsqlparser/jsqlparser/1.2/d34998ef80aed57ecd22a0a03a4dd526f89f328e/jsqlparser-1.2-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.jsqlparser/jsqlparser/1.2/d34998ef80aed57ecd22a0a03a4dd526f89f328e/jsqlparser-1.2-sources.jar!/" />
     </SOURCES>
   </library>
 </component>
