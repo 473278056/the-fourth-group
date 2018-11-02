@@ -1,5 +1,3 @@
 rootProject.name = 'the-fourth-group'
 include 'SMS'
-include 'log'
 include 'spring-eureka'
-

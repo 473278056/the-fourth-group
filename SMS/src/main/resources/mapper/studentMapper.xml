@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
-<mapper namespace="com.suixingyay.mapper.StudentMapper">
+<mapper namespace="com.suixingpay.mapper.StudentMapper">
     <!--user实体类和表的映射-->
-    <resultMap id="studentMap" type="com.suixingyay.pojo.Student">
+    <resultMap id="studentMap" type="com.suixingpay.pojo.Student">
         <id property="id" column="id"/>
         <result property="name" column="name"/>
         <result property="age" column="age"/>
@@ -35,7 +35,7 @@
     </select>-->
 
     <!--根据用户id修改学生信息-->
-    <update id="updateStudentById" parameterType="com.suixingyay.pojo.Student">
+    <update id="updateStudentById" parameterType="com.suixingpay.pojo.Student">
         update student
         set name = #{name}
         and age = #{age}
@@ -48,7 +48,7 @@
         where id = #{id}
     </delete>
 
-    <insert id="insertStudent" parameterType="com.suixingyay.pojo.Student">
+    <insert id="insertStudent" parameterType="com.suixingpay.pojo.Student">
         insert into student
         (name, age, sex, studentClass, teacher, createDate, year)
         values(#{name},#{age},#{sex},#{studentClass},#{teacher},#{createDate},#{year});
