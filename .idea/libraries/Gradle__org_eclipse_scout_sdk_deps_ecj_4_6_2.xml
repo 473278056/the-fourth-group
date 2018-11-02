@@ -2,12 +2,15 @@
   <library name="Gradle: org.eclipse.scout.sdk.deps:ecj:4.6.2">
     <CLASSES>
       <root url="jar://D:/javaUtil/gradleRepository/.gradle/caches/modules-2/files-2.1/org.eclipse.scout.sdk.deps/ecj/4.6.2/c05d06a5ff8b7a1090db65491bc0dff8aacea245/ecj-4.6.2.jar!/" />
+      <root url="jar://E:/gradle/caches/modules-2/files-2.1/org.eclipse.scout.sdk.deps/ecj/4.6.2/c05d06a5ff8b7a1090db65491bc0dff8aacea245/ecj-4.6.2.jar!/" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://D:/javaUtil/gradleRepository/.gradle/caches/modules-2/files-2.1/org.eclipse.scout.sdk.deps/ecj/4.6.2/602c5ba5456958267a58ea269c8a4e0a11ea53dd/ecj-4.6.2-javadoc.jar!/" />
+      <root url="jar://E:/gradle/caches/modules-2/files-2.1/org.eclipse.scout.sdk.deps/ecj/4.6.2/602c5ba5456958267a58ea269c8a4e0a11ea53dd/ecj-4.6.2-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES>
       <root url="jar://D:/javaUtil/gradleRepository/.gradle/caches/modules-2/files-2.1/org.eclipse.scout.sdk.deps/ecj/4.6.2/8fec348800def0ba679b1cb81cc96670cdeaaed0/ecj-4.6.2-sources.jar!/" />
+      <root url="jar://E:/gradle/caches/modules-2/files-2.1/org.eclipse.scout.sdk.deps/ecj/4.6.2/8fec348800def0ba679b1cb81cc96670cdeaaed0/ecj-4.6.2-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

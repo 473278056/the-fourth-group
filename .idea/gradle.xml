@@ -10,6 +10,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/SMS" />
+            <option value="$PROJECT_DIR$/aop" />
             <option value="$PROJECT_DIR$/spring-eureka" />
           </set>
         </option>

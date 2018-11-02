@@ -5,6 +5,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/SMS/SMS.iml" filepath="$PROJECT_DIR$/.idea/modules/SMS/SMS.iml" group="SMS" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/SMS/SMS_main.iml" filepath="$PROJECT_DIR$/.idea/modules/SMS/SMS_main.iml" group="SMS" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/SMS/SMS_test.iml" filepath="$PROJECT_DIR$/.idea/modules/SMS/SMS_test.iml" group="SMS" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/aop.iml" filepath="$PROJECT_DIR$/.idea/modules/aop.iml" group="aop" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/aop/aop_main.iml" filepath="$PROJECT_DIR$/.idea/modules/aop/aop_main.iml" group="aop" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/aop/aop_test.iml" filepath="$PROJECT_DIR$/.idea/modules/aop/aop_test.iml" group="aop" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-eureka/spring-eureka.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-eureka/spring-eureka.iml" group="spring-eureka" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-eureka/spring-eureka_main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-eureka/spring-eureka_main.iml" group="spring-eureka" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-eureka/spring-eureka_test.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-eureka/spring-eureka_test.iml" group="spring-eureka" />
