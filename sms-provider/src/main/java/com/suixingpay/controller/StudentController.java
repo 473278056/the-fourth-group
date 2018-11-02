@@ -61,7 +61,7 @@ public class StudentController {
      * @return
      */
     @PutMapping
-    public ResponseEntity<Void> saveUser(Student student){
+    public ResponseEntity<Void> updateStudnent(Student student){
         try {
             boolean result = this.studentService.updateStudentById(student);
             if (!result){
@@ -83,7 +83,7 @@ public class StudentController {
      * @return
      */
     @DeleteMapping(value="{id}")
-    public ResponseEntity<Void> deleteUser(@PathVariable("id") Integer id){
+    public ResponseEntity<Void> deleteStudent(@PathVariable("id") Integer id){
         if (id.longValue() == 0){
             // 没有传递参数，响应状态码400
             return ResponseEntity.status(HttpStatus.BAD_REQUEST).build();
