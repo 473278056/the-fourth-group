@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+    </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="log_main" target="1.8" />
-      <module name="log_test" target="1.8" />
+      <module name="base-pojo_main" target="1.8" />
+      <module name="base-pojo_test" target="1.8" />
       <module name="SMS_main" target="1.8" />
       <module name="SMS_test" target="1.8" />
+      <module name="spring-consumer_main" target="1.8" />
+      <module name="spring-consumer_test" target="1.8" />
       <module name="spring-eureka_main" target="1.8" />
       <module name="spring-eureka_test" target="1.8" />
     </bytecodeTargetLevel>

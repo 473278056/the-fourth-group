@@ -1,3 +1,6 @@
 rootProject.name = 'the-fourth-group'
 include 'SMS'
 include 'spring-eureka'
+include 'spring-consumer'
+include 'base-pojo'
+
