@@ -1,0 +1,28 @@
+mybatis:
+  mapper-locations: /mapper/*.xml
+spring:
+  datasource:
+    url: jdbc:mysql://60.205.190.177:3306/student
+    username: root
+    password: admin
+  application:
+    name: cloud-SMS-provider
+server:
+  port: 8081
+
+eureka:
+  client:
+    registryFetchIntervalSeconds: 10
+    serviceUrl:
+      defaultZone: http://localhost:4040/eureka
+  instance:
+    leaseRenewalIntervalInSeconds: 10
+    leaseExpirationDurationInSeconds: 30
+
+feign:
+  hystrix:
+    enabled: true
+  httpclient:
+    connectionTimeout: 1000
+    maxConnectionsPerRoute: 2
+    maxConnections: 10

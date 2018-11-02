@@ -1,0 +1,21 @@
+spring:
+  application:
+    name: cloud-registry
+    
+server:
+  port: 4040
+  
+eureka:
+  server: 
+    evictionIntervalTimerInMs: 60000
+    enableSelfPreservation: true
+    renewalPercentThreshold: 0.85
+    
+  client:
+    #是否将自己注册到注册中心中
+    registerWithEureka: false
+    #是否从Eureka 中获取注册信息
+    fetchRegistry: false
+    serviceUrl:
+      #Eureka 客户端与服务端交互的地址
+      defaultZone: http://localhost:4040/eureka
