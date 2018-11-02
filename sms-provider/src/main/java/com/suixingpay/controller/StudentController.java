@@ -23,7 +23,7 @@ public class StudentController {
      * @return
      */
     @GetMapping
-    public ResponseEntity<EasyUIResult> queryItemList(
+    public ResponseEntity<EasyUIResult> queryStudentList(
             @RequestParam(value = "page", defaultValue = "1") Integer page,
             @RequestParam(value = "rows", defaultValue = "30") Integer rows) {
         try {
@@ -39,7 +39,7 @@ public class StudentController {
      * @return
      */
     @GetMapping(value = "{id}")
-    public ResponseEntity<Student> queryUserById(@PathVariable("id") Integer id){
+    public ResponseEntity<Student> queryStudentById(@PathVariable("id") Integer id){
         try {
             Student student = this.studentService.queryStudentByid(id);
             if (student == null){
