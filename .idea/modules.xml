@@ -2,6 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SMS/SMS.iml" filepath="$PROJECT_DIR$/.idea/modules/SMS/SMS.iml" group="SMS" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SMS/SMS_main.iml" filepath="$PROJECT_DIR$/.idea/modules/SMS/SMS_main.iml" group="SMS" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SMS/SMS_test.iml" filepath="$PROJECT_DIR$/.idea/modules/SMS/SMS_test.iml" group="SMS" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/log/log.iml" filepath="$PROJECT_DIR$/.idea/modules/log/log.iml" group="log" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/log/log_main.iml" filepath="$PROJECT_DIR$/.idea/modules/log/log_main.iml" group="log" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/log/log_test.iml" filepath="$PROJECT_DIR$/.idea/modules/log/log_test.iml" group="log" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/sms-consumer/sms-consumer.iml" filepath="$PROJECT_DIR$/.idea/modules/sms-consumer/sms-consumer.iml" group="sms-consumer" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/sms-consumer/sms-consumer_main.iml" filepath="$PROJECT_DIR$/.idea/modules/sms-consumer/sms-consumer_main.iml" group="sms-consumer" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/sms-consumer/sms-consumer_test.iml" filepath="$PROJECT_DIR$/.idea/modules/sms-consumer/sms-consumer_test.iml" group="sms-consumer" />
@@ -17,6 +23,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/sms-start/sms-start.iml" filepath="$PROJECT_DIR$/.idea/modules/sms-start/sms-start.iml" group="sms-start" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/sms-start/sms-start_main.iml" filepath="$PROJECT_DIR$/.idea/modules/sms-start/sms-start_main.iml" group="sms-start" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/sms-start/sms-start_test.iml" filepath="$PROJECT_DIR$/.idea/modules/sms-start/sms-start_test.iml" group="sms-start" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-eureka/spring-eureka.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-eureka/spring-eureka.iml" group="spring-eureka" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-eureka/spring-eureka_main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-eureka/spring-eureka_main.iml" group="spring-eureka" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-eureka/spring-eureka_test.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-eureka/spring-eureka_test.iml" group="spring-eureka" />
       <module fileurl="file://$PROJECT_DIR$/the-fourth-group.iml" filepath="$PROJECT_DIR$/the-fourth-group.iml" />
     </modules>
   </component>

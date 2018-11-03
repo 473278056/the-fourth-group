@@ -15,8 +15,10 @@ import javax.servlet.http.HttpServletResponse;
  */
 @Slf4j
 public class ExcuteTimeInterceptor implements HandlerInterceptor {
-
-    //在handler执行之前
+    /**
+     * @method preHandle()：记录请求执行前的时间，并放入request中
+     * startTime:记录响应时的实时时间
+     */
     @Override
     public boolean preHandle(HttpServletRequest request, HttpServletResponse response, Object handler)throws Exception{
         long startTime=System.currentTimeMillis();
@@ -24,15 +26,17 @@ public class ExcuteTimeInterceptor implements HandlerInterceptor {
         return true;
     }
 
-    //在handler执行之后
+    /**
+     * @method postHandle()：记录请求执行后的时间，并计算时间差，打印日志
+     * endTime:记录响应时的实时时间
+     * excuteTime：操作时间差
+     */
     @Override
     public void postHandle(HttpServletRequest request, HttpServletResponse response, Object handler, ModelAndView modelAndView)throws Exception{
         long startTime=(Long)request.getAttribute("startTime");
         long endTime=System.currentTimeMillis();
         long excuteTime=endTime-startTime;
 
-        //修改 modelAndView的数据
-//        modelAndView.addObject("excuteTime",excuteTime);
         System.out.println(""+excuteTime+" ms");
         log.info("【日志打印】--操作所用时间："+excuteTime+" ms");
     }
